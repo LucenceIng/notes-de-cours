@@ -2,14 +2,14 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Titre</title>
-            <author>Auteur</title>
+            <title>Coucou</title>
+            <author>Cou</author>
          </titleStmt>
          <publicationStmt>
             <p>Information pour la publication ou la distribution</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Informations sur la source</p>
+            <p>Lalalala</p>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
